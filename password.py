@@ -1,5 +1,3 @@
-# Strong Password or NOT?!
-
 user_name = input('Please enter a User Name: ')
 user_password = input('Please enter in your password: ')
 
